@@ -12,3 +12,7 @@
 - [快速排序](https://github.com/xingpengchao/leetcode/blob/master/1.排序/快速排序.md)
 - [堆排序](https://github.com/xingpengchao/leetcode/blob/master/1.排序/堆排序.md)
 - [十大排序对比](https://github.com/xingpengchao/leetcode/blob/master/1.排序/十大排序对比.md)
+
+### 二分查找
+
+- [二分查找](https://github.com/xingpengchao/leetcode/blob/master/1.二分查找/二分查找.md)
