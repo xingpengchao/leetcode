@@ -15,4 +15,4 @@
 
 ### 二分查找
 
-- [二分查找](https://github.com/xingpengchao/leetcode/blob/master/1.二分查找/二分查找.md)
+- [二分查找](https://github.com/xingpengchao/leetcode/blob/master/2.二分查找/二分查找.md)
