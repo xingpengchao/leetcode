@@ -16,3 +16,9 @@
 ### 二分查找
 
 - [二分查找](https://github.com/xingpengchao/leetcode/blob/master/2.二分查找/二分查找.md)
+
+### 栈、队列
+
+- [双栈模拟队列](https://github.com/xingpengchao/leetcode/blob/master/3.栈、队列/双栈模拟队列.md)
+- [有效的括号](https://github.com/xingpengchao/leetcode/blob/master/3.栈、队列/有效的括号.md)
+- [将无序栈转为有序栈](https://github.com/xingpengchao/leetcode/blob/master/3.栈、队列/将无序栈转为有序栈.md)
