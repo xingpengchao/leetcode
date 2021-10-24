@@ -27,3 +27,8 @@
 
 - [反转链表](https://github.com/xingpengchao/leetcode/blob/master/4.链表/反转链表.md)
 - [手撕单向链表](https://github.com/xingpengchao/leetcode/blob/master/4.链表/手撕单向链表.md)
+- [合并两个链表](https://github.com/xingpengchao/leetcode/blob/master/4.链表/合并两个链表.md)
+- [链表中倒数第 K 个节点](https://github.com/xingpengchao/leetcode/blob/master/4.链表/链表中倒数第K个节点.md)
+- [两个链表的第一个公共节点](https://github.com/xingpengchao/leetcode/blob/master/4.链表/两个链表的第一个公共节点.md)
+- [判断链表是否有环](https://github.com/xingpengchao/leetcode/blob/master/4.链表/判断链表是否有环.md)
+- [两数相加](https://github.com/xingpengchao/leetcode/blob/master/4.链表/两数相加.md)
