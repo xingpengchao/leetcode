@@ -32,3 +32,11 @@
 - [两个链表的第一个公共节点](https://github.com/xingpengchao/leetcode/blob/master/4.链表/两个链表的第一个公共节点.md)
 - [判断链表是否有环](https://github.com/xingpengchao/leetcode/blob/master/4.链表/判断链表是否有环.md)
 - [两数相加](https://github.com/xingpengchao/leetcode/blob/master/4.链表/两数相加.md)
+
+### 二叉树
+
+- [前序遍历](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/前序遍历.md)
+- [中序遍历](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/中序遍历.md)
+- [后序遍历](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/后序遍历.md)
+- [层次遍历](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/层次遍历.md)
+- [二叉树的深度](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/二叉树的深度.md)
