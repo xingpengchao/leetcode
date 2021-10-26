@@ -40,3 +40,8 @@
 - [后序遍历](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/后序遍历.md)
 - [层次遍历](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/层次遍历.md)
 - [二叉树的深度](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/二叉树的深度.md)
+- [对称二叉树](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/对称二叉树.md)
+- [平衡二叉树](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/平衡二叉树.md)
+- [重建二叉树](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/重建二叉树.md)
+- [按层打印二叉树](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/按层打印二叉树.md)
+- [之字形打印二叉树](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/之字形打印二叉树.md)
