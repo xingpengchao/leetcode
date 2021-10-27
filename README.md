@@ -45,3 +45,8 @@
 - [重建二叉树](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/重建二叉树.md)
 - [按层打印二叉树](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/按层打印二叉树.md)
 - [之字形打印二叉树](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/之字形打印二叉树.md)
+- [二叉搜索树的后序遍历序列](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/二叉搜索树的后序遍历序列.md)
+- [二叉搜索树的第 K 个节点](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/二叉搜索树的第K个节点.md)
+- [二叉树的镜像](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/二叉树的镜像.md)
+- [二叉树的最大宽度](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/二叉树的最大宽度.md)
+- [二叉树的下一个节点](https://github.com/xingpengchao/leetcode/blob/master/5.二叉树/二叉树的下一个节点.md)
