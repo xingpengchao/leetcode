@@ -55,6 +55,6 @@
 
 - [滑动窗口的最大值](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/滑动窗口的最大值.md)
 - [和为 S 的连续正整数](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/和为S的连续正整数.md)
-- [和为 S 的两个数(微改版)](<https://github.com/xingpengchao/leetcode/blob/master/6.双指针/和为S的连两个数(微改版).md>)
+- [和为 S 的两个数(微改版)](<https://github.com/xingpengchao/leetcode/blob/master/6.双指针/和为S的两个数(微改版).md>)
 - [盛最多水的容器](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/盛最多水的容器.md)
 - [接雨水](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/接雨水.md)
