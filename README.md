@@ -58,3 +58,12 @@
 - [和为 S 的两个数(微改版)](<https://github.com/xingpengchao/leetcode/blob/master/6.双指针/和为S的两个数(微改版).md>)
 - [盛最多水的容器](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/盛最多水的容器.md)
 - [接雨水](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/接雨水.md)
+
+### 动态规划
+
+- [斐波那契数列/跳台阶/矩形覆盖](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/斐波那数列、跳台阶、矩形覆盖.md)
+- [最小路径和](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/最小路径和.md)
+- [不同路径](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/不同路径.md)
+- [最长回文子串](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/最长回文子串.md)
+- [编辑距离](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/编辑距离.md)
+- [最长有效括号](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/最长有效括号.md)
