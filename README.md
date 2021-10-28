@@ -61,7 +61,7 @@
 
 ### 动态规划
 
-- [斐波那契数列/跳台阶/矩形覆盖](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/斐波那数列、跳台阶、矩形覆盖.md)
+- [斐波那契数列/跳台阶/矩形覆盖](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/斐波那契数列、跳台阶、矩形覆盖.md)
 - [最小路径和](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/最小路径和.md)
 - [不同路径](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/不同路径.md)
 - [最长回文子串](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/最长回文子串.md)
