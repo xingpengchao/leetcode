@@ -67,3 +67,10 @@
 - [最长回文子串](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/最长回文子串.md)
 - [编辑距离](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/编辑距离.md)
 - [最长有效括号](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/最长有效括号.md)
+
+### 前端手撕代码
+
+- [封装 call](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装call.md)
+- [封装 apply](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装apply.md)
+- [封装 bind](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装bind.md)
+- [封装 map](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装map.md)
