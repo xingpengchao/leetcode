@@ -74,3 +74,5 @@
 - [封装 apply](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装apply.md)
 - [封装 bind](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装bind.md)
 - [封装 map](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装map.md)
+- [深拷贝](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/深拷贝.md)
+- [数组去重](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/数组去重.md)
