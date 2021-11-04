@@ -76,3 +76,5 @@
 - [封装 map](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装map.md)
 - [深拷贝](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/深拷贝.md)
 - [数组去重](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/数组去重.md)
+- [数组扁平化](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/数组扁平化.md)
+- [函数柯里化](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/函数柯里化.md)
