@@ -78,3 +78,6 @@
 - [数组去重](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/数组去重.md)
 - [数组扁平化](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/数组扁平化.md)
 - [函数柯里化](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/函数柯里化.md)
+- [实现 Instanceof](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/实现Instanceof.md)
+- [new 的过程](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/new的过程.md)
+- [手撕 Promise(简易版)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/手撕Promise(简易版).md>)
