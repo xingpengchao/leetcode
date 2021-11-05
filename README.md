@@ -81,3 +81,7 @@
 - [实现 Instanceof](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/实现Instanceof.md)
 - [new 的过程](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/new的过程.md)
 - [手撕 Promise(简易版)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/手撕Promise(简易版).md>)
+- [手撕 Promise(A+规范)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/手撕Promise(A+规范).md>)
+- [手撕 Promise.all](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/手撕Promise.all.md)
+- [Promise 封装异步上传图片](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/Promise封装异步上传图片.md)
+- [红黄绿灯(字节)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/红黄绿灯(字节).md>)
