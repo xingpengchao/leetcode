@@ -85,3 +85,7 @@
 - [手撕 Promise.all](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/手撕Promise.all.md)
 - [Promise 封装异步上传图片](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/Promise封装异步上传图片.md)
 - [红黄绿灯(字节)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/红黄绿灯(字节).md>)
+- [spawn 函数(Async 函数实现原理)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/spawn函数(Async函数实现原理).md>)
+- [thunk 函数(Generator 函数实现自动流程管理原理)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/thunk函数(Generator函数实现自动流程管理原理).md>)
+- [防抖](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/防抖.md)
+- [节流](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/节流.md)
