@@ -53,6 +53,7 @@
 
 ### 双指针
 
+- [字符串压缩](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/字符串压缩.md)
 - [验证回文串](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/验证回文串.md)
 - [滑动窗口的最大值](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/滑动窗口的最大值.md)
 - [和为 S 的连续正整数](https://github.com/xingpengchao/leetcode/blob/master/6.双指针/和为S的连续正整数.md)
