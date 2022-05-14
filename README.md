@@ -70,6 +70,7 @@
 - [编辑距离](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/编辑距离.md)
 - [最长有效括号](https://github.com/xingpengchao/leetcode/blob/master/7.动态规划/最长有效括号.md)
 
+<!--
 ### 前端手撕代码
 
 - [封装 call](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/封装call.md)
@@ -90,4 +91,4 @@
 - [spawn 函数(Async 函数实现原理)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/spawn函数(Async函数实现原理).md>)
 - [thunk 函数(Generator 函数实现自动流程管理原理)](<https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/thunk函数(Generator函数实现自动流程管理原理).md>)
 - [防抖](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/防抖.md)
-- [节流](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/节流.md)
+- [节流](https://github.com/xingpengchao/leetcode/blob/master/8.前端手撕代码/节流.md) -->
